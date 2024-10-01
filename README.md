@@ -1,2 +1,2 @@
 # LITA_Class
-This is where I documented my first project while learning Data Analysis with Incubator Hub
+This is where I recorded the details of my first project as I embarked on my journey to learn Data Analysis through Incubator Hub. It captures my early experiences, the challenges I faced, and the key skills I developed throughout the project. The project served as a foundational step in applying data analysis techniques and helped me gain hands-on experience in real-world scenarios, setting the stage for my future work in the field.
