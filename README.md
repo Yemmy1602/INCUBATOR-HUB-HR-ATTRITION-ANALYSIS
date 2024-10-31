@@ -74,25 +74,23 @@ Executive", "Research Scientist").
 ### Data Analysis
 The following are the DAX Expressions used during my Analysis
 
-```Attrition Rate = SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
-```AverageSalary = [Monthly Salary]/[EmployeeCount]
-AvgAge = AVERAGE('HR data'[Age])/AVERAGE('HR data'[Employee Count])
-AvgSalaryHike = AVERAGE('HR data'[Percent Salary Hike])
-EmployeeCount = DISTINCTCOUNT('HR data'[Employee Number])
-Monthly Salary = SUM('HR data'[Monthly Income])
-EnvironmentStatus = SWITCH(TRUE(), 
-'HR data'[Environment Satisfaction] = 1, "Very Dissatisfied", 
+- ```Attrition Rate = SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
+- ```AverageSalary = [Monthly Salary]/[EmployeeCount]
+- ```AvgAge = AVERAGE('HR data'[Age])/AVERAGE('HR data'[Employee Count])
+- ```AvgSalaryHike = AVERAGE('HR data'[Percent Salary Hike])
+- ```EmployeeCount = DISTINCTCOUNT('HR data'[Employee Number])
+- ```Monthly Salary = SUM('HR data'[Monthly Income])
+- ```EnvironmentStatus = SWITCH(TRUE(), 
+- ```'HR data'[Environment Satisfaction] = 1, "Very Dissatisfied", 
 'HR data'[Environment Satisfaction] = 2, "Dissatisfied", 
 'HR data'[Environment Satisfaction] = 3, "Satisfied", 
 'HR data'[Environment Satisfaction] = 4, "Very Satisfied")
-Income Category = 
+- ```Income Category = 
 SWITCH(
     TRUE(), 
     'HR data'[Monthly Income] < 10000, "Less than 10k",
     'HR data'[Monthly Income] >= 10000 && 'HR data'[Monthly Income] < 15000, "Btw 10k - 15k",
-    'HR data'[Monthly Income] >= 15000, "Above 15k"
-)
-
+    'HR data'[Monthly Income] >= 15000, "Above 15k")
 Job_involvement = SWITCH(TRUE(), 
 'HR data'[Job Involvement] = 1, "Very Low", 
 'HR data'[Job Involvement] = 2, "Low", 
