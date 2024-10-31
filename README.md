@@ -11,7 +11,7 @@ This project was designed to address the following analysis:
 - Analyze Employee Satisfaction and Tenure: Measure satisfaction levels by department, role, and tenure to see how they relate to attrition.
 - Evaluate Impact of Retention Strategies: Assess the effectiveness of retention initiatives like Work-life Balance Programs, Promotion, Increment in Salary, Access to Stock options, Rewards, Professional Development, and Career Growth.
 
-### Key Metrics:
+### Key Metrics
 - Attrition Rate: Percentage of employees leaving over a specific period.
 - Satisfaction Levels: Average job satisfaction scores by department, role, and demographic.
 - Tenure: Average length of service by demographic and department.
@@ -64,3 +64,9 @@ Executive", "Research Scientist").
 - Microsoft Excel
 - Power BI: For data visualization and reporting.
 - DAX: Used to create custom metrics and calculations.
+
+### Data Cleaning and Preparation
+- Data Loading and Inspection
+- No Missing Variables
+- No Data Cleaning and Formatting
+- Creation of Calculated columns and measures 
