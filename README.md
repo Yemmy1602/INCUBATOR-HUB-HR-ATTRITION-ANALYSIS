@@ -69,4 +69,69 @@ Executive", "Research Scientist").
 - Data Loading and Inspection
 - No Missing Variables
 - No Data Cleaning and Formatting
-- Creation of Calculated columns and measures 
+- Creation of Calculated columns and measures
+
+### Data Analysis
+The following are the DAX Expressions used during my Analysis
+
+```Attrition Rate = SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
+```AverageSalary = [Monthly Salary]/[EmployeeCount]
+AvgAge = AVERAGE('HR data'[Age])/AVERAGE('HR data'[Employee Count])
+AvgSalaryHike = AVERAGE('HR data'[Percent Salary Hike])
+EmployeeCount = DISTINCTCOUNT('HR data'[Employee Number])
+Monthly Salary = SUM('HR data'[Monthly Income])
+EnvironmentStatus = SWITCH(TRUE(), 
+'HR data'[Environment Satisfaction] = 1, "Very Dissatisfied", 
+'HR data'[Environment Satisfaction] = 2, "Dissatisfied", 
+'HR data'[Environment Satisfaction] = 3, "Satisfied", 
+'HR data'[Environment Satisfaction] = 4, "Very Satisfied")
+Income Category = 
+SWITCH(
+    TRUE(), 
+    'HR data'[Monthly Income] < 10000, "Less than 10k",
+    'HR data'[Monthly Income] >= 10000 && 'HR data'[Monthly Income] < 15000, "Btw 10k - 15k",
+    'HR data'[Monthly Income] >= 15000, "Above 15k"
+)
+
+Job_involvement = SWITCH(TRUE(), 
+'HR data'[Job Involvement] = 1, "Very Low", 
+'HR data'[Job Involvement] = 2, "Low", 
+'HR data'[Job Involvement] = 3, "Good", 
+'HR data'[Job Involvement] = 4, "Very Good")
+
+Performance Status = SWITCH(TRUE(), 
+'HR data'[Performance Rating] = 3, "Satisfactory", 
+'HR data'[Performance Rating] = 4, "Outstanding")
+
+PromotionCategory = 
+SWITCH(
+    TRUE(),
+    'HR data'[Years Since Last Promotion] >= 0 && 'HR data'[Years Since Last Promotion] <= 5, "0-5years",
+    'HR data'[Years Since Last Promotion] >= 6 && 'HR data'[Years Since Last Promotion] <= 10, "6-10years",
+    'HR data'[Years Since Last Promotion] >= 11 && 'HR data'[Years Since Last Promotion] <= 15, "11-15years",
+    'HR data'[Years Since Last Promotion] > 15, "Above 15years"
+)
+
+RelationshipStatus = SWITCH(TRUE(), 
+'HR data'[Relationship Satisfaction] = 1, "Very Dissatisfied", 
+'HR data'[Relationship Satisfaction] = 2, "Dissatisfied", 
+'HR data'[Relationship Satisfaction] = 3, "Satisfied", 
+'HR data'[Relationship Satisfaction] = 4, "Very Satisfied")
+
+SalaryHikeCategory = 
+SWITCH(
+    TRUE(),
+    'HR data'[Percent Salary Hike] >= 11 && 'HR data'[Percent Salary Hike] <= 15, "Low",
+    'HR data'[Percent Salary Hike] >= 16 && 'HR data'[Percent Salary Hike] <= 20, "Medium",
+    'HR data'[Percent Salary Hike] >= 21 && 'HR data'[Percent Salary Hike] <= 25, "High")
+
+StockOptionCategory = SWITCH(TRUE(), 
+'HR data'[Stock Option Level] = 0, "Very Poor", 
+'HR data'[Stock Option Level] = 1, "Poor", 
+'HR data'[Stock Option Level] = 2, "Medium", 
+'HR data'[Stock Option Level] = 3, "High")
+
+Tenure = SWITCH(TRUE(), 
+'HR data'[Years At Company] >= 0 && 'HR data'[Years At Company] <= 5, "Newcomer (1-5)",
+'HR data'[Years At Company] >= 6 && 'HR data'[Years At Company] <= 15, "Experienced (6-15)", 
+'HR data'[Years At Company] >=16 && 'HR data'[Years At Company] <= 40, "Veteran (16-40)")
