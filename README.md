@@ -147,3 +147,6 @@ Tenure = SWITCH(TRUE(),
 'HR data'[Years At Company] >= 0 && 'HR data'[Years At Company] <= 5, "Newcomer (1-5)",
 'HR data'[Years At Company] >= 6 && 'HR data'[Years At Company] <= 15, "Experienced (6-15)", 
 'HR data'[Years At Company] >=16 && 'HR data'[Years At Company] <= 40, "Veteran (16-40)")
+```
+
+### Data Visualization 
