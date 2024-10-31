@@ -1,2 +1,3 @@
-# LITA_Class
-This is where I recorded the details of my first project as I embarked on my journey to learn Data Analysis through Incubator Hub. It captures my early experiences, the challenges I faced, and the key skills I developed throughout the project. The project served as a foundational step in applying data analysis techniques and helped me gain hands-on experience in real-world scenarios, setting the stage for my future work in the field.
+# Employee Retention and Attrition Analysis Project
+
+In this project, the main focus is to analyze and understand employee attrition—why employees are leaving the company—and to identify areas where improvements can be made to retain staff. The analysis will look at several critical factors that may influence an employee's decision to stay or leave, using Power BI to visualize trends and insights
