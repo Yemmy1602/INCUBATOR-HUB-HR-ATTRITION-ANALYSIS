@@ -17,6 +17,9 @@ This project was designed to address the following analysis:
 - Tenure: Average length of service by demographic and department.
 - Turnover by Performance: Relationship between performance ratings and attrition rates.
 
+### Data Sources
+This Data primary source used is HR attrition and retention.csv from Capstone
+
 ### Data Collected
 Here is an overview of the columns in the HR dataset along with their descriptions: 
 1. Employee Number: A unique identifier for each employee in the dataset. 
@@ -50,8 +53,14 @@ manager.
 27. Environment Satisfaction: The employee’s satisfaction with the working environment, typically on a scale (e.g., 1-4). 
 28. Gender: The gender of the employee (e.g., Male, Female). 
 30. Job Involvement: The level of the employee’s involvement in their job, typically on a scale (e.g., 1-4). 
-31. Job Level: The job level of the employee within the organization, typically on a scale (e.g., 1-5). 
-32. Job Role: The specific role or position of the employee within the organization (e.g., "Sales 
+31. Job Level: The job level of the employee within the organization, typically on a scale (e.g.,
+1-5). 
+33. Job Role: The specific role or position of the employee within the organization (e.g., "Sales 
 Executive", "Research Scientist"). 
-33. Job Satisfaction: The employee’s satisfaction with their job, typically on a scale (e.g.,1-4). 
-34. Marital Status: The marital status of the employee (e.g., "Single", "Married", "Divorced").
+34. Job Satisfaction: The employee’s satisfaction with their job, typically on a scale (e.g.,1-4). 
+35. Marital Status: The marital status of the employee (e.g., "Single", "Married", "Divorced").
+
+### Tools Used
+- Microsoft Excel
+- Power BI: For data visualization and reporting.
+- DAX: Used to create custom metrics and calculations.
