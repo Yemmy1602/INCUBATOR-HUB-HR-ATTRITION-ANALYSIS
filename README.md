@@ -149,4 +149,12 @@ Tenure = SWITCH(TRUE(),
 'HR data'[Years At Company] >=16 && 'HR data'[Years At Company] <= 40, "Veteran (16-40)")
 ```
 
+
 ### Data Visualization 
+
+![Overview HR Attrition](https://github.com/user-attachments/assets/a5c6f705-05df-4bb5-b9ca-afd4d4fad56b)
+![Demographics 1](https://github.com/user-attachments/assets/029b4177-c141-4230-8da9-d6d9bed2f68b)
+![Demographics 11](https://github.com/user-attachments/assets/a4fd15bd-fb8a-47f4-911e-06e8d9233cc5)
+![Employee turnover](https://github.com/user-attachments/assets/38f9cca6-a399-42ad-be2b-b2848afbff13)
+![Retention Strategies](https://github.com/user-attachments/assets/e3bd3e52-4777-419b-ab5f-18c9acd78688)
+![Employee Satisfaction](https://github.com/user-attachments/assets/edbbbbfa-2757-4c5b-8900-1d13e8de4d04)
