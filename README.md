@@ -11,3 +11,8 @@ This project was designed to address the following analysis:
 - Analyze Employee Satisfaction and Tenure: Measure satisfaction levels by department, role, and tenure to see how they relate to attrition.
 - Evaluate Impact of Retention Strategies: Assess the effectiveness of retention initiatives like Work-life Balance Programs, Promotion, Increment in Salary, Access to Stock options, Rewards, Professional Development, and Career Growth.
 
+### Key Metrics:
+- Attrition Rate: Percentage of employees leaving over a specific period.
+- Satisfaction Levels: Average job satisfaction scores by department, role, and demographic.
+- Tenure: Average length of service by demographic and department.
+- Turnover by Performance: Relationship between performance ratings and attrition rates.
