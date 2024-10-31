@@ -1,7 +1,7 @@
 # Employee Retention and Attrition Analysis
 
 ### Project Overview
-
+---
 In this project, the main focus is to analyze and understand employee attrition—why employees are leaving the company—and to identify areas where improvements can be made to retain staff. The analysis will look at several critical factors that may influence an employee's decision to stay or leave, using Power BI to visualize trends and insights
 
 ### Project Objectives
@@ -13,15 +13,18 @@ This project was designed to address the following analysis:
 - Evaluate Impact of Retention Strategies: Assess the effectiveness of retention initiatives like Work-life Balance Programs, Promotion, Increment in Salary, Access to Stock options, Rewards, Professional Development, and Career Growth.
 
 ### Key Metrics
+---
 - Attrition Rate: Percentage of employees leaving over a specific period.
 - Satisfaction Levels: Average job satisfaction scores by department, role, and demographic.
 - Tenure: Average length of service by demographic and department.
 - Turnover by Performance: Relationship between performance ratings and attrition rates.
 
 ### Data Sources
+---
 This Data primary source used is HR attrition and retention.csv from Capstone
 
 ### Data Collected
+---
 Here is an overview of the columns in the HR dataset along with their descriptions: 
 1. Employee Number: A unique identifier for each employee in the dataset. 
 2. MonthlyIncome: The monthly income of the employee. 
@@ -62,17 +65,20 @@ Executive", "Research Scientist").
 35. Marital Status: The marital status of the employee (e.g., "Single", "Married", "Divorced").
 
 ### Tools Used
+---
 - Microsoft Excel
 - Power BI: For data visualization and reporting.
 - DAX: Used to create custom metrics and calculations.
 
 ### Data Cleaning and Preparation
+---
 - Data Loading and Inspection
 - No Missing Variables
 - No Data Cleaning and Formatting
 - Creation of Calculated columns and measures
 
 ### Data Analysis
+---
 The following are the DAX Expressions used during my Analysis
 
 ```Attrition Rate = SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
