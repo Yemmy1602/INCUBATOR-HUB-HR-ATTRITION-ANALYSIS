@@ -5,6 +5,7 @@
 In this project, the main focus is to analyze and understand employee attrition—why employees are leaving the company—and to identify areas where improvements can be made to retain staff. The analysis will look at several critical factors that may influence an employee's decision to stay or leave, using Power BI to visualize trends and insights
 
 ### Project Objectives
+---
 This project was designed to address the following analysis:
 
 - Identify Key Attrition Factors: Investigate what causes employee attrition, focusing on factors like Department, Job role, Job satisfaction, Tenure, and Demographics (Age, Gender), that may need targeted retention efforts.
