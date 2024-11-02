@@ -193,3 +193,56 @@ Insight: Employees living "Very Far" from work have a significant attrition rate
 - Analysis: Younger employees (under 30) experience the highest attrition rate at 22%, indicating that career progression or job satisfaction might be areas of concern.
 Also, female employees have a higher attrition rate (18%) compared to male employees (14%), suggesting a need to investigate and address gender-specific retention challenges.
 - Implications: Consider targeted programs such as mentorship for younger employees and initiatives focused on supporting women in the workplace.
+
+- Attrition Count by Tenure: Newcomer (1-5 years): 162 employees, Experienced (6-15 years): 62 employees, Veteran (16-40 years): 13 employees
+Insight: The majority of turnover (68.4%) is among employees with 1-5 years of tenure, suggesting that new hires may face challenges in adjusting or finding growth opportunities.
+Recommendation: Implement onboarding support and early-career development programs to engage and retain newer employees.
+- Job Satisfaction by Job Role: Sales Executive:
+-- 34 employees "Very Dissatisfied," 16 "Dissatisfied"
+-- Research Scientist: 13 employees "Very Satisfied"
+-- Sales Representative: 16 employees "Very Dissatisfied," 14 "Dissatisfied"
+Insight: Sales Executives and Sales Representatives show high dissatisfaction, which might indicate job-specific challenges in these roles. Research Scientists, however, show higher satisfaction, particularly in the "Very Satisfied" category.
+
+Recommendation: Review working conditions, targets, and incentives for Sales roles to address dissatisfaction and improve job satisfaction.
+
+3. Attrition Count by Job Involvement
+Very Low: 28 employees
+Low: 71 employees
+Good: 125 employees
+Very Good: 13 employees
+Insight: Employees with "Good" job involvement have the highest attrition (125), which might indicate that involvement alone does not prevent turnover.
+
+Recommendation: Assess other retention factors beyond job involvement, such as career progression and work-life balance, for employees with "Good" involvement.
+
+4. Attrition Count by Department
+HR: 56.12% of attrition
+Sales: 38.82% of attrition
+R&D: 5.06% of attrition
+Insight: HR and Sales departments experience the highest attrition, with HR alone contributing to over half of the total attrition (56.12%).
+
+Recommendation: Conduct targeted assessments within HR and Sales to understand specific turnover drivers and implement department-specific retention strategies.
+
+5. Attrition Count Over Time
+Yes (Attrition occurred): 110 employees
+No (No attrition): 127 employees
+Insight: This shows a relatively balanced distribution between employees who stayed and those who left, suggesting turnover is ongoing and consistent.
+
+Recommendation: Track attrition patterns over time to identify any specific periods with higher attrition and address possible seasonal or cyclical turnover trends.
+
+6. Job Satisfaction by Educational Field
+Human Resources: 66 employees "Very Dissatisfied," 46 "Dissatisfied"
+Life Sciences: 29 employees "Very Satisfied," 18 "Satisfied"
+Marketing: Higher dissatisfaction with 4 "Very Dissatisfied" and 11 "Dissatisfied"
+Insight: Employees in HR show the most dissatisfaction, with high counts in "Very Dissatisfied" and "Dissatisfied" categories. Conversely, employees in Life Sciences have higher satisfaction levels, particularly in the "Very Satisfied" group.
+
+Recommendation: Address specific satisfaction issues within HR, potentially through training, support programs, or improved career paths to enhance employee experience in that educational field.
+
+Summary and Key Recommendations
+Tenure: High turnover among new employees suggests a need for early-career support and engagement strategies.
+Job Role Satisfaction: Dissatisfaction in Sales roles requires attention, potentially through role-specific support and incentives.
+Job Involvement: Job involvement alone is insufficient for retention; additional factors such as career growth and recognition should be considered.
+Departmental Attrition: HR and Sales departments need tailored retention initiatives due to high turnover rates.
+Educational Field Satisfaction: Address dissatisfaction in HR and Marketing fields while leveraging factors that contribute to higher satisfaction in Life Sciences.
+Implementing these targeted actions may help reduce turnover and increase overall employee satisfaction and retention.
+
+
