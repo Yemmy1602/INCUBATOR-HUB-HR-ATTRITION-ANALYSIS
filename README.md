@@ -220,6 +220,29 @@ Also, female employees have a higher attrition rate (18%) compared to male emplo
 - Insight: Employees in HR show the most dissatisfaction, with high counts in "Very Dissatisfied" and "Dissatisfied" categories. Conversely, employees in Life Sciences have higher satisfaction levels, particularly in the "Very Satisfied" group.
 - Recommendation: Address specific satisfaction issues within HR, potentially through training, support programs, or improved career paths to enhance employee experience in that educational field.
 
+##### HR Retention Strategies Visual Analysis
+Total Employees: 1,470, Attrition Count: 237, Attrition Rate: 16%, Average Salary: $6.5K, Average Salary Hike: 15.21%
+The attrition rate of 16% shows room for improvement in retention. The average salary hike of 15.21% is competitive but may need adjustment in some areas.
 
+Factor-by-Factor Analysis
+Income Category: Less than 10k: 272 employees, 10k - 15k: 20 employees, Above 15k: 5 employees
+- Insight: Lower-paid employees are leaving at higher rates. 
+- Recommendation: Reassess compensation for those earning under 10k to improve retention.
+
+Stock Options: Very Poor: 154 employees, Poor: 56 employees, Medium: 12 employees, High: 15 employees
+- Insight: Employees with "Very Poor" or "Poor" stock options are more likely to leave.
+- Recommendation: Enhance stock option offerings for these groups to increase retention.
+
+Training: 0 Trainings: 38 employees, 1 Training: 69 employees, 2 Trainings: 50 employees, 3+ Trainings: 80 employees
+- Insight: Employees with fewer training sessions have higher attrition.
+- Recommendation: Provide more training opportunities to encourage growth and reduce turnover.
+
+Promotion Category: 0-5 Years: 202 employees, 6-10 Years: 27 employees, 11-15 Years: 8 employees
+- Insight: Attrition is highest among employees with 0-5 years of tenure, likely due to limited promotion opportunities.
+- Recommendation: Offer clearer promotion paths and mentorship for newer employees.
+
+Salary Hike Category: Low: 150 employees, Medium: 57 employees, High: 30 employees
+- Insight: Employees with "Low" salary hikes are leaving at higher rates.
+- Recommendation: Ensure fair salary hikes, especially for high-performing employees in the "Low" category.
 
 
