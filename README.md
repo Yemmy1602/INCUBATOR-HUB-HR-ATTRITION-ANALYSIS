@@ -286,7 +286,8 @@ This analysis highlights key areas in employee demographics, turnover, retention
 - Retention Strategies: Career development for the 25-44 age group and flexible benefits based on marital status could improve retention. Remote work options may also help reduce turnover for employees with difficult commutes.
 - Satisfaction: Satisfaction varies across groups, indicating a need for tailored improvements in engagement, benefits, and career opportunities.
   
-### Recommendations:
+### Recommendations
+---
 - Retention Programs: In terms of age-focused development, there should be career growth programs for the 25-44 age range and provision of benefits tailored to marital status (single, married, divorced).
 - Gender-Specific Engagement: Address high male attrition with targeted engagement and support programs.
 - Field-Specific Support: Investigate high turnover in Life Sciences and Medical fields to address any specific challenges.
