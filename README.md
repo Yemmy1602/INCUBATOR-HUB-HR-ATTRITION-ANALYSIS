@@ -151,6 +151,7 @@ Tenure = SWITCH(TRUE(),
 
 
 ### Data Visualization 
+---
 ![Overview HR Attrition](https://github.com/user-attachments/assets/a5c6f705-05df-4bb5-b9ca-afd4d4fad56b)
 ![Demographics 1](https://github.com/user-attachments/assets/029b4177-c141-4230-8da9-d6d9bed2f68b)
 ![Demographics 11](https://github.com/user-attachments/assets/a4fd15bd-fb8a-47f4-911e-06e8d9233cc5)
@@ -159,9 +160,30 @@ Tenure = SWITCH(TRUE(),
 ![Employee Satisfaction](https://github.com/user-attachments/assets/edbbbbfa-2757-4c5b-8900-1d13e8de4d04)
 
 ### Data Analysis
-#### Overview of HR Data Analysis Tracker
+---
+##### Overview of HR Data Analysis Tracker
 - This section provides a high-level summary of the key metrics, including demographics, employee turnover, retention strategies, and employee satisfaction.
 - Key Metrics: Total employees, attrition rate, gender distribution, and average tenure.
 - Implications: These metrics set the foundation for understanding the scale of attrition and areas where retention strategies might be focused.
 
+##### Demographics 1
+###### Employees by Age Band and Gender
+Under 25: 41 (Male: 20, Female: 21), 25-34: 268 (Male: 86, Female: 182), 35-44: 272 (Male: 90, Female: 182), 45-54: 186 (Male: 136, Female: 50), Over 55: 46 (Male: 32, Female: 14)
+Insight: The largest age groups are 25-34 and 35-44, with females representing a higher proportion in these age ranges. Employees over 45 are predominantly male, indicating that gender balance may shift with age.
+
+###### Employees by Marital Status and Gender
+Married: 348 (Female: 152, Male: 186), Single: 479 (Female: 152, Male: 198), Divorced: 96 (Female: 87, Male: 9)
+Insight: Most employees are single (around 38.8%), with females making up a large proportion of the divorced category. This suggests that marital status could influence benefit preferences.
+
+###### Attrition by Gender
+- Higher Attrition: Male: 150 (63.29%), Female: 87 (36.71%)
+Insight: Male employees have a higher attrition rate, making up about 63.29% of total attrition. This may highlight certain workplace challenges more specific to male employees.
+
+###### Attrition by Educational Field
+Life Sciences: 89 (37.6%), Medical: 63, Marketing: 35, Technical Degree: 32, Other: 11, Human Resources: 7
+Insight: Life Sciences and Medical fields have the highest attrition counts, with Life Sciences making up over one-third of total attrition.
+
+###### Attrition Count by Distance Category
+Far: 60 (25.32%), Near: 94 (39.66%), Very Far: 83 (35.02%)
+Insight: Employees living "Very Far" from work have a significant attrition rate (35.02%), though those living "Near" also show notable attrition (39.66%).
 
