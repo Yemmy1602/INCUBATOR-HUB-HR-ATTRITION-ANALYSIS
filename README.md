@@ -252,7 +252,7 @@ These metrics set the foundation for analyzing satisfaction and its impact on at
 - Insight: A majority of employees leaving (84.39%) have a "Satisfactory" rating, while fewer (15.61%) with "Outstanding" ratings are leaving.
 - Recommendation: Recognize and motivate employees with "Satisfactory" ratings through development programs to improve retention.
 
-###### Attrition Count by Job Satisfaction Status: Very Dissatisfied: 66 employees, Dissatisfied: 46 employees Satisfied: 73 employees, Very Satisfied: 52 employees
+###### Attrition Count by Job Satisfaction Status: Very Dissatisfied: 66 employees, Dissatisfied: 46 employees, Satisfied: 73 employees, Very Satisfied: 52 employees
 - Insight: Attrition is highest among employees with a "Satisfied" status (73), which suggests that "Satisfaction" alone does not ensure retention.
 - Recommendation: Identify additional ways to increase job satisfaction, especially for those currently "Satisfied."
 
@@ -265,7 +265,7 @@ Satisfied: 62 employees, Very Satisfied: 60 employees
 - Insight: Employees who do not travel show a significantly higher attrition count (156), suggesting that a lack of travel could be associated with higher turnover.
 - Recommendation: Assess the reasons why non-traveling employees might be leaving, perhaps by offering flexible or diverse work opportunities.
 
-##### Attrition Count by Work-Life Balance: Poor: 25 employees, Fair: 58 employees, Good: 127 employees
+##### Attrition Count by Work-Life Balance: Poor: 25 employees, Fair: 58 employees, Good: 127 employees, 
 Excellent: 27 employees
 - Insight: Attrition is highest among employees with "Good" work-life balance (127). This may indicate that the perceived level of work-life balance is not the main issue affecting turnover.
 - Recommendation: Look into other aspects of employee experience for those with "Good" work-life balance to understand the underlying reasons for their departure.
