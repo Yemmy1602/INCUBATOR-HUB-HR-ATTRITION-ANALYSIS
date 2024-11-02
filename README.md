@@ -182,14 +182,14 @@ Tenure = SWITCH(TRUE(),
 ###### Attrition Count by Distance Category: Far: 60 (25.32%), Near: 94 (39.66%), Very Far: 83 (35.02%)
 - Insight: Employees living "Very Far" from work have a significant attrition rate (35.02%), though those living "Near" also show notable attrition (39.66%).
 
-### Demographics II Visual Analysis (Attrition by Age Group and Gender)
+### 2. Demographics II Visual Analysis (Attrition by Age Group and Gender)
 
 ###### Attrition by Age: Under 30: 22% attrition rate, 30-40: 15% attrition rate, Over 40: 10% attrition rate while gender-based attrition consist of Male: 14%, Female: 18%
 - Analysis: Younger employees (under 30) experience the highest attrition rate at 22%, indicating that career progression or job satisfaction might be areas of concern.
 Also, female employees have a higher attrition rate (18%) compared to male employees (14%), suggesting a need to investigate and address gender-specific retention challenges.
 - Implications: Consider targeted programs such as mentorship for younger employees and initiatives focused on supporting women in the workplace.
 
-### Employee Turnover Visual Analysis
+### 3. Employee Turnover Visual Analysis
 
 ###### Attrition Count by Tenure: Newcomer (1-5 years): 162 employees, Experienced (6-15 years): 62 employees, Veteran (16-40 years): 13 employees
 - Insight: The majority of turnover (68.4%) is among employees with 1-5 years of tenure, suggesting that new hires may face challenges in adjusting or finding growth opportunities.
@@ -215,7 +215,7 @@ Also, female employees have a higher attrition rate (18%) compared to male emplo
 - Insight: Employees in HR show the most dissatisfaction, with high counts in "Very Dissatisfied" and "Dissatisfied" categories. Conversely, employees in Life Sciences have higher satisfaction levels, particularly in the "Very Satisfied" group.
 - Recommendation: Address specific satisfaction issues within HR, potentially through training, support programs, or improved career paths to enhance employee experience in that educational field.
 
-### HR Retention Strategies Visual Analysis
+### 4. HR Retention Strategies Visual Analysis
 Total Employees: 1,470, Attrition Count: 237, Attrition Rate: 16%, Average Salary: $6.5K, Average Salary Hike: 15.21%
 The attrition rate of 16% shows room for improvement in retention. The average salary hike of 15.21% is competitive but may need adjustment in some areas.
 
@@ -239,7 +239,7 @@ The attrition rate of 16% shows room for improvement in retention. The average s
 - Insight: Employees with "Low" salary hikes are leaving at higher rates.
 - Recommendation: Ensure fair salary hikes, especially for high-performing employees in the "Low" category.
 
-### Employee Satisfaction Visual Analysis 
+### 5. Employee Satisfaction Visual Analysis 
 
 - Overall Metrics: Current Employees: 1,233, Current Female Employees: 501, Current Male Employees: 732 Attrition Rate: 16%, Attrition Count: 237
 These metrics set the foundation for analyzing satisfaction and its impact on attrition.
