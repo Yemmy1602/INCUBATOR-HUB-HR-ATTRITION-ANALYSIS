@@ -179,8 +179,7 @@ Tenure = SWITCH(TRUE(),
 ###### Attrition by Educational Field: Life Sciences: 89 (37.6%), Medical: 63, Marketing: 35, Technical Degree: 32, Other: 11, Human Resources: 7
 - Insight: Life Sciences and Medical fields have the highest attrition counts, with Life Sciences making up over one-third of total attrition.
 
-###### Attrition Count by Distance Category
-Far: 60 (25.32%), Near: 94 (39.66%), Very Far: 83 (35.02%)
+###### Attrition Count by Distance Category: Far: 60 (25.32%), Near: 94 (39.66%), Very Far: 83 (35.02%)
 - Insight: Employees living "Very Far" from work have a significant attrition rate (35.02%), though those living "Near" also show notable attrition (39.66%).
 
 ##### Demographics II Visual Analysis (Attrition by Age Group and Gender)
