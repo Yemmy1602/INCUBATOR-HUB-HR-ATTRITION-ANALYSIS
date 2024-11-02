@@ -166,7 +166,7 @@ Tenure = SWITCH(TRUE(),
 - Key Metrics: Total employees, attrition rate, gender distribution, and average tenure.
 - Implications: These metrics set the foundation for understanding the scale of attrition and areas where retention strategies might be focused.
 
-### Demographics 1
+### 1. Demographics 1
 ###### Employees by Age Band and Gender: Under 25: 41 (Male: 20, Female: 21), 25-34: 268 (Male: 86, Female: 182), 35-44: 272 (Male: 90, Female: 182), 45-54: 186 (Male: 136, Female: 50), Over 55: 46 (Male: 32, Female: 14)
 - Insight: The largest age groups are 25-34 and 35-44, with females representing a higher proportion in these age ranges. Employees over 45 are predominantly male, indicating that gender balance may shift with age.
 
