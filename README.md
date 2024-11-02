@@ -204,8 +204,7 @@ Recommendation: Implement onboarding support and early-career development progra
 Insight: Sales Executives and Sales Representatives show high dissatisfaction, which might indicate job-specific challenges in these roles. Research Scientists, however, show higher satisfaction, particularly in the "Very Satisfied" category.
 Recommendation: Review working conditions, targets, and incentives for Sales roles to address dissatisfaction and improve job satisfaction.
 
-###### Attrition Count by Job Involvement: Very Low: 28 employees, Low: 71 employees, Good: 125 employees and
-Very Good: 13 employees
+###### Attrition Count by Job Involvement: Very Low: 28 employees, Low: 71 employees, Good: 125 employees and Very Good: 13 employees
 Insight: Employees with "Good" job involvement have the highest attrition (125), which might indicate that involvement alone does not prevent turnover.
 Recommendation: Assess other retention factors beyond job involvement, such as career progression and work-life balance, for employees with "Good" involvement.
 
