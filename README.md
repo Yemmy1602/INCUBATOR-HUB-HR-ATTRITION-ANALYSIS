@@ -167,20 +167,16 @@ Tenure = SWITCH(TRUE(),
 - Implications: These metrics set the foundation for understanding the scale of attrition and areas where retention strategies might be focused.
 
 ##### Demographics 1
-###### Employees by Age Band and Gender
-Under 25: 41 (Male: 20, Female: 21), 25-34: 268 (Male: 86, Female: 182), 35-44: 272 (Male: 90, Female: 182), 45-54: 186 (Male: 136, Female: 50), Over 55: 46 (Male: 32, Female: 14)
+###### Employees by Age Band and Gender: Under 25: 41 (Male: 20, Female: 21), 25-34: 268 (Male: 86, Female: 182), 35-44: 272 (Male: 90, Female: 182), 45-54: 186 (Male: 136, Female: 50), Over 55: 46 (Male: 32, Female: 14)
 - Insight: The largest age groups are 25-34 and 35-44, with females representing a higher proportion in these age ranges. Employees over 45 are predominantly male, indicating that gender balance may shift with age.
 
-###### Employees by Marital Status and Gender
-Married: 348 (Female: 152, Male: 186), Single: 479 (Female: 152, Male: 198), Divorced: 96 (Female: 87, Male: 9)
+###### Employees by Marital Status and Gender: Married: 348 (Female: 152, Male: 186), Single: 479 (Female: 152, Male: 198), Divorced: 96 (Female: 87, Male: 9)
 - Insight: Most employees are single (around 38.8%), with females making up a large proportion of the divorced category. This suggests that marital status could influence benefit preferences.
 
-###### Attrition by Gender
-Higher Attrition: Male: 150 (63.29%), Female: 87 (36.71%)
+###### Attrition by Gender: Higher Attrition: Male: 150 (63.29%), Female: 87 (36.71%)
 - Insight: Male employees have a higher attrition rate, making up about 63.29% of total attrition. This may highlight certain workplace challenges more specific to male employees.
 
-###### Attrition by Educational Field
-Life Sciences: 89 (37.6%), Medical: 63, Marketing: 35, Technical Degree: 32, Other: 11, Human Resources: 7
+###### Attrition by Educational Field: Life Sciences: 89 (37.6%), Medical: 63, Marketing: 35, Technical Degree: 32, Other: 11, Human Resources: 7
 - Insight: Life Sciences and Medical fields have the highest attrition counts, with Life Sciences making up over one-third of total attrition.
 
 ###### Attrition Count by Distance Category
