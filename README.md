@@ -189,8 +189,7 @@ Insight: Employees living "Very Far" from work have a significant attrition rate
 
 ##### Demographics II (Attrition by Age Group and Gender)
 
-###### Attrition by Age: Under 30: 22% attrition rate, 30-40: 15% attrition rate, Over 40: 10% attrition rate
-Gender-Based Attrition: Male: 14%, Female: 18%
+###### Attrition by Age: Under 30: 22% attrition rate, 30-40: 15% attrition rate, Over 40: 10% attrition rate while gender-based attrition consist of Male: 14%, Female: 18%
 - Analysis: Younger employees (under 30) experience the highest attrition rate at 22%, indicating that career progression or job satisfaction might be areas of concern.
 Also, female employees have a higher attrition rate (18%) compared to male employees (14%), suggesting a need to investigate and address gender-specific retention challenges.
 - Implications: Consider targeted programs such as mentorship for younger employees and initiatives focused on supporting women in the workplace.
