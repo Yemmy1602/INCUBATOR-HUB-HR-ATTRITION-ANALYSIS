@@ -239,33 +239,39 @@ The attrition rate of 16% shows room for improvement in retention. The average s
 - Insight: Employees with "Low" salary hikes are leaving at higher rates.
 - Recommendation: Ensure fair salary hikes, especially for high-performing employees in the "Low" category.
 
-###### Employee Satisfaction Visual Analysis 
+##### Employee Satisfaction Visual Analysis 
 
 - Overall Metrics: Current Employees: 1,233, Current Female Employees: 501, Current Male Employees: 732 Attrition Rate: 16%, Attrition Count: 237
 These metrics set the foundation for analyzing satisfaction and its impact on attrition.
 
 ###### Attrition Count by Relationship Status: Very Dissatisfied: 57 employees, Dissatisfied: 45 employees, Satisfied: 71 employees, Very Satisfied: 64 employees
+
 - Insight: Attrition is highest among "Satisfied" employees (71), followed closely by "Very Satisfied" employees (64). This may suggest that relationship satisfaction alone doesn’t significantly prevent turnover.
 - Recommendation: Investigate other factors beyond relationship satisfaction that may influence attrition, even for satisfied employees.
   
 ###### Attrition Count by Performance Rating: Satisfactory: 200 employees (84.39%), Outstanding: 37 employees (15.61%)
+
 - Insight: A majority of employees leaving (84.39%) have a "Satisfactory" rating, while fewer (15.61%) with "Outstanding" ratings are leaving.
 - Recommendation: Recognize and motivate employees with "Satisfactory" ratings through development programs to improve retention.
 
 ###### Attrition Count by Job Satisfaction Status: Very Dissatisfied: 66 employees, Dissatisfied: 46 employees, Satisfied: 73 employees, Very Satisfied: 52 employees
+
 - Insight: Attrition is highest among employees with a "Satisfied" status (73), which suggests that "Satisfaction" alone does not ensure retention.
 - Recommendation: Identify additional ways to increase job satisfaction, especially for those currently "Satisfied."
 
 ###### Attrition Count by Environment Status: Very Dissatisfied: 72 employees, Dissatisfied: 43 employees
 Satisfied: 62 employees, Very Satisfied: 60 employees
+
 - Insight: The highest attrition count is among those who are "Very Dissatisfied" (72). This indicates that environmental dissatisfaction strongly correlates with turnover.
 - Recommendation: Improve the work environment, particularly for those expressing dissatisfaction, to lower attrition rates.
 
 ###### Attrition Count by Business Travel: Non-Travel: 156 employees, Travel Rarely: 69 employees, Travel Frequently: 12 employees
+
 - Insight: Employees who do not travel show a significantly higher attrition count (156), suggesting that a lack of travel could be associated with higher turnover.
 - Recommendation: Assess the reasons why non-traveling employees might be leaving, perhaps by offering flexible or diverse work opportunities.
 
-##### Attrition Count by Work-Life Balance: Poor: 25 employees, Fair: 58 employees, Good: 127 employees, 
+###### Attrition Count by Work-Life Balance: Poor: 25 employees, Fair: 58 employees, Good: 127 employees, 
 Excellent: 27 employees
+
 - Insight: Attrition is highest among employees with "Good" work-life balance (127). This may indicate that the perceived level of work-life balance is not the main issue affecting turnover.
 - Recommendation: Look into other aspects of employee experience for those with "Good" work-life balance to understand the underlying reasons for their departure.
