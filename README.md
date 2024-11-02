@@ -176,7 +176,7 @@ Married: 348 (Female: 152, Male: 186), Single: 479 (Female: 152, Male: 198), Div
 Insight: Most employees are single (around 38.8%), with females making up a large proportion of the divorced category. This suggests that marital status could influence benefit preferences.
 
 ###### Attrition by Gender
-- Higher Attrition: Male: 150 (63.29%), Female: 87 (36.71%)
+Higher Attrition: Male: 150 (63.29%), Female: 87 (36.71%)
 Insight: Male employees have a higher attrition rate, making up about 63.29% of total attrition. This may highlight certain workplace challenges more specific to male employees.
 
 ###### Attrition by Educational Field
@@ -187,3 +187,9 @@ Insight: Life Sciences and Medical fields have the highest attrition counts, wit
 Far: 60 (25.32%), Near: 94 (39.66%), Very Far: 83 (35.02%)
 Insight: Employees living "Very Far" from work have a significant attrition rate (35.02%), though those living "Near" also show notable attrition (39.66%).
 
+2. Demographics (Attrition by Age Group and Gender)
+Attrition by Age: Under 30: 22% attrition rate, 30-40: 15% attrition rate, Over 40: 10% attrition rate
+Gender-Based Attrition: Male: 14%, Female: 18%
+Analysis:Younger employees (under 30) experience the highest attrition rate at 22%, indicating that career progression or job satisfaction might be areas of concern.
+Female employees have a higher attrition rate (18%) compared to male employees (14%), suggesting a need to investigate and address gender-specific retention challenges.
+Implications: Consider targeted programs such as mentorship for younger employees and initiatives focused on supporting women in the workplace.
