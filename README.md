@@ -169,23 +169,23 @@ Tenure = SWITCH(TRUE(),
 ##### Demographics 1
 ###### Employees by Age Band and Gender
 Under 25: 41 (Male: 20, Female: 21), 25-34: 268 (Male: 86, Female: 182), 35-44: 272 (Male: 90, Female: 182), 45-54: 186 (Male: 136, Female: 50), Over 55: 46 (Male: 32, Female: 14)
-Insight: The largest age groups are 25-34 and 35-44, with females representing a higher proportion in these age ranges. Employees over 45 are predominantly male, indicating that gender balance may shift with age.
+- Insight: The largest age groups are 25-34 and 35-44, with females representing a higher proportion in these age ranges. Employees over 45 are predominantly male, indicating that gender balance may shift with age.
 
 ###### Employees by Marital Status and Gender
 Married: 348 (Female: 152, Male: 186), Single: 479 (Female: 152, Male: 198), Divorced: 96 (Female: 87, Male: 9)
-Insight: Most employees are single (around 38.8%), with females making up a large proportion of the divorced category. This suggests that marital status could influence benefit preferences.
+- Insight: Most employees are single (around 38.8%), with females making up a large proportion of the divorced category. This suggests that marital status could influence benefit preferences.
 
 ###### Attrition by Gender
 Higher Attrition: Male: 150 (63.29%), Female: 87 (36.71%)
-Insight: Male employees have a higher attrition rate, making up about 63.29% of total attrition. This may highlight certain workplace challenges more specific to male employees.
+- Insight: Male employees have a higher attrition rate, making up about 63.29% of total attrition. This may highlight certain workplace challenges more specific to male employees.
 
 ###### Attrition by Educational Field
 Life Sciences: 89 (37.6%), Medical: 63, Marketing: 35, Technical Degree: 32, Other: 11, Human Resources: 7
-Insight: Life Sciences and Medical fields have the highest attrition counts, with Life Sciences making up over one-third of total attrition.
+- Insight: Life Sciences and Medical fields have the highest attrition counts, with Life Sciences making up over one-third of total attrition.
 
 ###### Attrition Count by Distance Category
 Far: 60 (25.32%), Near: 94 (39.66%), Very Far: 83 (35.02%)
-Insight: Employees living "Very Far" from work have a significant attrition rate (35.02%), though those living "Near" also show notable attrition (39.66%).
+- Insight: Employees living "Very Far" from work have a significant attrition rate (35.02%), though those living "Near" also show notable attrition (39.66%).
 
 ##### Demographics II Visual Analysis (Attrition by Age Group and Gender)
 
@@ -197,28 +197,28 @@ Also, female employees have a higher attrition rate (18%) compared to male emplo
 ##### Employee Turnover Visual Analysis
 
 ###### Attrition Count by Tenure: Newcomer (1-5 years): 162 employees, Experienced (6-15 years): 62 employees, Veteran (16-40 years): 13 employees
-Insight: The majority of turnover (68.4%) is among employees with 1-5 years of tenure, suggesting that new hires may face challenges in adjusting or finding growth opportunities.
-Recommendation: Implement onboarding support and early-career development programs to engage and retain newer employees.
+- Insight: The majority of turnover (68.4%) is among employees with 1-5 years of tenure, suggesting that new hires may face challenges in adjusting or finding growth opportunities.
+- Recommendation: Implement onboarding support and early-career development programs to engage and retain newer employees.
 
 ###### Job Satisfaction by Job Role: Sales Executive: 34 employees "Very Dissatisfied," 16 "Dissatisfied", Research Scientist: 13 employees "Very Satisfied", Sales Representative: 16 employees "Very Dissatisfied," 14 "Dissatisfied"
-Insight: Sales Executives and Sales Representatives show high dissatisfaction, which might indicate job-specific challenges in these roles. Research Scientists, however, show higher satisfaction, particularly in the "Very Satisfied" category.
-Recommendation: Review working conditions, targets, and incentives for Sales roles to address dissatisfaction and improve job satisfaction.
+- Insight: Sales Executives and Sales Representatives show high dissatisfaction, which might indicate job-specific challenges in these roles. Research Scientists, however, show higher satisfaction, particularly in the "Very Satisfied" category.
+- Recommendation: Review working conditions, targets, and incentives for Sales roles to address dissatisfaction and improve job satisfaction.
 
 ###### Attrition Count by Job Involvement: Very Low: 28 employees, Low: 71 employees, Good: 125 employees and Very Good: 13 employees
-Insight: Employees with "Good" job involvement have the highest attrition (125), which might indicate that involvement alone does not prevent turnover.
-Recommendation: Assess other retention factors beyond job involvement, such as career progression and work-life balance, for employees with "Good" involvement.
+- Insight: Employees with "Good" job involvement have the highest attrition (125), which might indicate that involvement alone does not prevent turnover.
+- Recommendation: Assess other retention factors beyond job involvement, such as career progression and work-life balance, for employees with "Good" involvement.
 
 ###### Attrition Count by Department: HR: 56.12% of attrition, Sales: 38.82% of attrition and R&D: 5.06% of attrition
-Insight: HR and Sales departments experience the highest attrition, with HR alone contributing to over half of the total attrition (56.12%).
-Recommendation: Conduct targeted assessments within HR and Sales to understand specific turnover drivers and implement department-specific retention strategies.
+- Insight: HR and Sales departments experience the highest attrition, with HR alone contributing to over half of the total attrition (56.12%).
+- Recommendation: Conduct targeted assessments within HR and Sales to understand specific turnover drivers and implement department-specific retention strategies.
 
 ###### Attrition Count Over Time: Yes (Attrition occurred): 110 employees and No (No attrition): 127 employees
-Insight: This shows a relatively balanced distribution between employees who stayed and those who left, suggesting turnover is ongoing and consistent.
-Recommendation: Track attrition patterns over time to identify any specific periods with higher attrition and address possible seasonal or cyclical turnover trends.
+- Insight: This shows a relatively balanced distribution between employees who stayed and those who left, suggesting turnover is ongoing and consistent.
+- Recommendation: Track attrition patterns over time to identify any specific periods with higher attrition and address possible seasonal or cyclical turnover trends.
 
 ###### Job Satisfaction by Educational Field: Human Resources - 66 employees "Very Dissatisfied," 46 "Dissatisfied", Life Sciences: 29 employees "Very Satisfied," 18 "Satisfied", Marketing: Higher dissatisfaction with 4 "Very Dissatisfied" and 11 "Dissatisfied".
-Insight: Employees in HR show the most dissatisfaction, with high counts in "Very Dissatisfied" and "Dissatisfied" categories. Conversely, employees in Life Sciences have higher satisfaction levels, particularly in the "Very Satisfied" group.
-Recommendation: Address specific satisfaction issues within HR, potentially through training, support programs, or improved career paths to enhance employee experience in that educational field.
+- Insight: Employees in HR show the most dissatisfaction, with high counts in "Very Dissatisfied" and "Dissatisfied" categories. Conversely, employees in Life Sciences have higher satisfaction levels, particularly in the "Very Satisfied" group.
+- Recommendation: Address specific satisfaction issues within HR, potentially through training, support programs, or improved career paths to enhance employee experience in that educational field.
 
 
 
