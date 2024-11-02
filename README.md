@@ -157,3 +157,11 @@ Tenure = SWITCH(TRUE(),
 ![Employee turnover](https://github.com/user-attachments/assets/38f9cca6-a399-42ad-be2b-b2848afbff13)
 ![Retention Strategies](https://github.com/user-attachments/assets/e3bd3e52-4777-419b-ab5f-18c9acd78688)
 ![Employee Satisfaction](https://github.com/user-attachments/assets/edbbbbfa-2757-4c5b-8900-1d13e8de4d04)
+
+### Data Analysis
+##### Overview of HR Data Analysis Tracker
+- This section provides a high-level summary of the key metrics, including demographics, employee turnover, retention strategies, and employee satisfaction.
+- Key Metrics: Total employees, attrition rate, gender distribution, and average tenure.
+- Implications: These metrics set the foundation for understanding the scale of attrition and areas where retention strategies might be focused.
+
+
