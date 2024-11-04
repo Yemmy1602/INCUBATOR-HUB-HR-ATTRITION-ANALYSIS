@@ -79,8 +79,8 @@ Executive", "Research Scientist").
 ### Data Analysis
 ---
 The following are the DAX Expressions used during my Analysis
-
-```Attrition Rate = SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
+```
+Attrition Rate = SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
 
 AverageSalary = [Monthly Salary]/[EmployeeCount]
 
