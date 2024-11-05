@@ -1,6 +1,19 @@
 # Employee Retention and Attrition Analysis
 
 ## Table of Contents
+[Project Overview](#project.overview)
+
+Project Objectives
+Key Metrics
+Data Sources
+Data Collected
+Tools Used
+Data Cleaning and Preparation
+Data Analysis
+Data Visualization
+Visual Analysis
+Summary of HR Data Analysis
+Recommendations
 
 
 
