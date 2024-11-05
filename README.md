@@ -3,17 +3,38 @@
 ## Table of Contents
 [Project Overview](#project.overview)
 
-Project Objectives
-Key Metrics
-Data Sources
-Data Collected
-Tools Used
-Data Cleaning and Preparation
-Data Analysis
-Data Visualization
-Visual Analysis
-Summary of HR Data Analysis
-Recommendations
+
+[Project Objectives](#project.objectives)
+
+
+[Key Metrics](#key.metrics)
+
+
+[Data Sources](#data.sources)
+
+
+[Data Collected](#data.collected)
+
+
+[Tools Used](#tools.used)
+
+
+[Data Cleaning and Preparation](#data.cleaning.and.preparation)
+
+
+[Data Analysis](#data.analysis)
+
+
+[Data Visualization](#data.visualization)
+
+
+[Visual Analysis](#visual.analysis)
+
+
+[Summary of HR Data Analysis](#summary.of.hr.data.analysis)
+
+
+[Recommendations](#recommendations)
 
 
 
